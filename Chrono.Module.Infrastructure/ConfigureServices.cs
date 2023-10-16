@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Chronos.Module.Infrastructure;
+namespace Chrono.Module.Infrastructure;
 
 public static class ConfigureServices
 {

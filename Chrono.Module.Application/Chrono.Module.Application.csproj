@@ -9,9 +9,9 @@
     <ItemGroup>
         <FrameworkReference Include="Microsoft.AspNetCore.App" />
     </ItemGroup>
-    
+
     <ItemGroup>
-      <ProjectReference Include="..\Chronos.Module.Application\Chronos.Module.Application.csproj" />
+      <ProjectReference Include="..\Chrono.Module.Domain\Chrono.Module.Domain.csproj" />
     </ItemGroup>
 
 </Project>
